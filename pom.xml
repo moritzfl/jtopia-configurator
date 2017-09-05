@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>de.moritzf.nlp</groupId>
+    <groupId>com.github.moritzfl</groupId>
     <artifactId>jtopia-configurator</artifactId>
     <version>0.2</version>
     <packaging>jar</packaging>
