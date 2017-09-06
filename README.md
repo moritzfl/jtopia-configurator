@@ -6,7 +6,7 @@
 
 Language resources for jtopia in Danish, Dutch, English, French, German, Portuguese, Spanish and Swedish. Details on jtopia can be found [here](https://github.com/moritzfl/jtopia)
 
-**GPL3 vs Apache License 2.0? (or jtopia vs jtopia-configurator)**
+**GPL3 vs Apache License 2.0? (or jtopia-configurator vs jtopia)**
 
 Because the jtopia-configurator includes language resources from the [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) it is infected by the GPL and may only be used under the terms of this license. If this is an issue for you, just use jtopia which is distributed under Apache License 2.0 and bring your own language resources (not as convenient but easy enough to do - for example with [OpenNLP models](http://opennlp.sourceforge.net/models-1.5/)).
 
