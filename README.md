@@ -9,7 +9,7 @@ Language resources for jtopia in Danish, Dutch, English, French, German, Portugu
 How to Use
 ==========
 
-with jtopia-configurator (separate library) you can rely on integrated resources and a helper class (Configurator) to provide you with an easy configuration:
+with jtopia-configurator you can rely on integrated resources and a helper class (Configurator) to provide you with an easy configuration:
 
         Configurator.setConfigurationToModel(Configurator.OPENNLP_ENGLISH_POS_MAXENT);
         Configurator.setConfigurationToStopWords(Configurator.STOPWORD_ENGLISH_LONG);
