@@ -7,7 +7,7 @@
 
     <groupId>com.github.moritzfl</groupId>
     <artifactId>jtopia-configurator</artifactId>
-    <version>0.2</version>
+    <version>0.3</version>
     <packaging>jar</packaging>
 
     <name>jtopia</name>
