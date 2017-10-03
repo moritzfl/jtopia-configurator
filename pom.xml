@@ -37,9 +37,14 @@
 
     <dependencies>
         <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.8.0</version>
+        </dependency>
+        <dependency>
             <groupId>com.github.moritzfl</groupId>
             <artifactId>jtopia</artifactId>
-            <version>0.2</version>
+            <version>0.3</version>
         </dependency>
     </dependencies>
 

@@ -11,10 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.github.moritzfl:jtopia:0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.8.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.8.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.opennlp:opennlp-tools:1.8.1" level="project" />
     <orderEntry type="library" name="Maven: edu.stanford.nlp:stanford-corenlp:3.8.0" level="project" />
     <orderEntry type="library" name="Maven: com.apple:AppleJavaExtensions:1.4" level="project" />
     <orderEntry type="library" name="Maven: de.jollyday:jollyday:0.4.9" level="project" />
@@ -35,5 +31,6 @@
     <orderEntry type="library" name="Maven: org.glassfish:javax.json:1.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.12" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.moritzfl:jtopia:0.3" level="project" />
   </component>
 </module>
