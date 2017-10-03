@@ -49,6 +49,6 @@ Maven artifacts are provided through jitpack.io. You therefore need to add the a
 	<dependency>
 	    <groupId>com.github.moritzfl</groupId>
 	    <artifactId>jtopia-configurator</artifactId>
-	    <version>0.2</version>
+	    <version>0.3</version>
 	</dependency>
   
